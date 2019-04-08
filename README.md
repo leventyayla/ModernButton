@@ -18,3 +18,14 @@ dependencies {
   implementation 'com.github.leventyayla:ModernButton:1.0.0'
 }
 ```
+
+Example Usage
+--------
+
+```xml
+<com.lvntyyl.button.library.ModernButton
+  android:id="@+id/modern_button"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="Test" />
+```
