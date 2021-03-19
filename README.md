@@ -1,4 +1,5 @@
 # ModernButton
+[![Build Status](https://travis-ci.com/leventyayla/ModernButton.svg?branch=master)](https://travis-ci.com/leventyayla/ModernButton)
 [![](https://jitpack.io/v/leventyayla/ModernButton.svg)](https://jitpack.io/#leventyayla/ModernButton)
 
 A simple Android Button Library
